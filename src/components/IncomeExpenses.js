@@ -18,8 +18,6 @@ export const IncomeExpenses = () => {
     ).toFixed(2);
 
 
-export const IncomeExpenses = () => {
-
     return (
         <div className="inc-exp-container">
             <div>
